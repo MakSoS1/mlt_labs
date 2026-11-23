@@ -1,0 +1,5 @@
+models/*.zip filter=lfs diff=lfs merge=lfs -text
+materials.zip -text
+*.ipynb text eol=lf
+*.md text eol=lf
+*.py text eol=lf

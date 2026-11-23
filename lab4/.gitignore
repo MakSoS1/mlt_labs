@@ -1,0 +1,9 @@
+.hw4-cache/
+.ipynb_checkpoints/
+.ruff_cache/
+__pycache__/
+.DS_Store
+Cats_and_Dogs.zip
+*.jpg
+*.jpeg
+*.png

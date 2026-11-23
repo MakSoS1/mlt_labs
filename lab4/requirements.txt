@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+scipy
+torch>=2.5
+torchvision>=0.20
+Pillow
+scikit-learn
+filelock
+certifi
